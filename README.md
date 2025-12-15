@@ -8,4 +8,4 @@ Happy Programming!
 
 
 
-![epic80E2-removebg-preview](https://github.com/user-attachments/assets/b289d553-19b9-495f-b707-cae150df4b16)
+<img width="1280" height="640" alt="epic80eGHstandard" src="https://github.com/user-attachments/assets/567c4f52-f7c6-4317-98c2-47e82b8c6f27" />
